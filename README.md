@@ -29,4 +29,9 @@ See image 4 for a glimpse of the workers who are eligible for this program
 According to the last table from task 1 there are 90,398 rolles that will need to be filled.
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-- 
+According to the table 'mentorship_eligibility' and using the following query:
+
+<img width="282" alt="Screen Shot 2021-11-07 at 13 56 09" src="https://user-images.githubusercontent.com/90527537/140659832-4c06a52c-52df-4dd8-a1bd-8800b500a3c9.png">
+
+There are only 1549 employees ready for the mentoring program and 90,398 retirement ready employees, so yes, there are enough qualified retirement ready to do this mentorhip. Althoug the company will need to select the best options to do this mentoring.
+
