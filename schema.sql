@@ -240,3 +240,16 @@ SELECT di.emp_no,
 INTO sales_dev_info
 FROM dept_info as di
 WHERE di.dept_name IN ('Sales', 'Development')
+
+-- delete titles table and create a new one beacause the import failed
+DROP TABLE titles CASCADE;
+CREATE TABLE titles (
+	emp_no INT NOT NULL,
+	title VARCHAR NOT NULL,
+	from_date DATE NOT NULL,
+	to_date DATE NOT NULL,
+	FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
+	PRIMARY KEY (emp_no, title, from_date)
+);
+
+SELECT * FROM titles;
