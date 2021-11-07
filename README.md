@@ -23,3 +23,10 @@ Next the company wants to know all the employees that are eligible for the mento
 See image 4 for a glimpse of the workers who are eligible for this program
 
 <img width="786" alt="Screen Shot 2021-11-07 at 13 34 01" src="https://user-images.githubusercontent.com/90527537/140659245-756c3a40-9e26-42b9-b468-c8dce7a62c6a.png">
+
+# Summary
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+According to the last table from task 1 there are 90,398 rolles that will need to be filled.
+
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+- 
